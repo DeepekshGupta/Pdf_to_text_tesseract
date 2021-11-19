@@ -84,7 +84,7 @@ This is important because text from all the smaller contours was already detecte
 |itteration|Extracted ROI|Remaining image|
 | :-: | :-: | :-: |
 |0|<p></p><p></p><p></p><p></p><p></p><p>-</p>|![](Aspose.Words.602d7fae-fa80-484b-9dfc-03f46b3dbddb.001.jpeg)|
-|1|![](images/gray.jpg)|![](Aspose.Words.602d7fae-fa80-484b-9dfc-03f46b3dbddb.001.jpeg)|
+|1|![](Aspose.Words.602d7fae-fa80-484b-9dfc-03f46b3dbddb.003.jpeg)|![](Aspose.Words.602d7fae-fa80-484b-9dfc-03f46b3dbddb.001.jpeg)|
 |2|![](Aspose.Words.602d7fae-fa80-484b-9dfc-03f46b3dbddb.004.jpeg)|![](Aspose.Words.602d7fae-fa80-484b-9dfc-03f46b3dbddb.001.jpeg)|
 |3|![](Aspose.Words.602d7fae-fa80-484b-9dfc-03f46b3dbddb.005.jpeg)|![](Aspose.Words.602d7fae-fa80-484b-9dfc-03f46b3dbddb.001.jpeg)|
 |4|![](Aspose.Words.602d7fae-fa80-484b-9dfc-03f46b3dbddb.006.jpeg)|![](Aspose.Words.602d7fae-fa80-484b-9dfc-03f46b3dbddb.001.jpeg)|
