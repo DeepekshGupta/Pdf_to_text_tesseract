@@ -1,0 +1,39 @@
+DESCRIPTION QUANTITY AMOUNT. TOTAL
+Finance charge on overdue balance at 1.5% 1.00 $150.09 $150.00
+Invoice #100 for $1000 on (Date) 1.00 $1,000.00 $1,000.00
+Invoice #100 for $1000 on (Date} 1.00 $1,000.00 $1,000.00
+Invoice #100 for $1000 on (Date} 1.00 $1,000.00 $1,000.00
+Invoice #100 for $1000 on (Date} 1.00 $1,000.06 $1,000.00
+Invoice #100 for $1000 on (Date} 1.00 $1,000.00 $1,000.00
+Invoice #100 for $1000 on (Date} 1.00 $1,000.00 $1,000.00
+Invoice #100 for $1000 on (Date} 1.00 $1,000.00 $1,000.00
+Invoice #100 for $1000 on (Date} 1.00 $1,000.00 $1,000.00
+TOTAL DUE $8,150.00
+JOB PAYMENT TERMS
+Jobor project title Ove on receipt
+YOUR LOGO
+HERE
+Your Company Name
+Street Address
+City. ST ZIP Code
+{Phone} (Fax}
+email
+Make alt checks payable to Your Company Name.
+THANK YOU FOR YOUR BUSINESS!
+INVOICE NO. 100
+DATE 17-10-2021
+CUSTOMER ID = ABC 12345
+SHIP TO
+Name
+Company Name
+Street Address
+City, ST IP Code
+Phone
+To
+Name
+Company Name
+Street Address
+City, ST IP Code
+Phone
+INVOICE
+Company slogan

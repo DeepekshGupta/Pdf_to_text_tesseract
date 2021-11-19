@@ -1,0 +1,45 @@
+(QUANTITY DESCRIPTION UNIT PRICE TOTAL
+1 Its like the props in a furniture store $22.45 $22.45
+1 Its like the props in a furniture store $22.45 $22.45
+,
+1 It's like the props in a furniture store $22.45 $22.45
+1 Its like the props in a fumiture store $22.45 © $22.45
+q It's like the props in a furniture store $22.45 $22.45
+SUBTOTAL $500.33
+SALES TAX 5.00%
+SHIPPING & HANDLING $5.0
+TOTAL DUE $2435.56
+Make all checks payable to (Company Name}
+If you have any questions concarning this invoice, contact (Name. phone, email
+(Company Name)
+{Your Company Slogan}
+{Street Address)
+ICity, ST ZIF Code}
+Phone phone) Fax (fax)
+SHIPPED VIA / F.0.8. POINT TERMS
+Due on
+index ;
+receipt
+SHIP TO:
+IRecipient Name}
+IRecipient Name}
+IRecipient Name}
+City, ST ZIP Code)
+Phone (Recipient Name}
+To:
+IRecipient Name}
+Company Name}
+(Street Address)
+City, ST ZIP Code)
+Phone {phone}
+COMMENTS OR SPECIAL INSTRUCTIONS:
+THANK YOU FOR YOUR BUSINESS!
+INVOICE #100
+DATE: OCTOBER 20, 2021
+INVOICE
+P.O. NUMBER
+123456789
+REQUISITIONER
+Suresh
+SALESPERSON
+Ramesh

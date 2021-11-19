@@ -1,0 +1,31 @@
+Date ieee # Description ary Unit Price Discount Total
+17-10-2021 789807 Wooden Blocks 4 $10.00 $2.00 $2.00
+17-10-2021 789807 Wooden Blocks 4 $10.00 $2.00 $38.00
+17-10-2021 789807 Wooden Blocks 4 $10.00 $2.00 $28.00
+17-10-2021 789807 Wooden Blocks 4 $10.00 $2.00 $28.00
+17-10-2021 789807 Wooden Blocks 4 $10.00 $2.00 $38.00
+MAKE ALL CHECKS PAYABLE TO TAILSPIN TOYS.
+TOTAL DUE IN 10 DAYS, OVERDUE ACCOUNTS ARE SUBIECT TO AN INTEREST CHARGE OF 29% PER MONTH.
+Invoice Subtotal $190.00
+TexRate
+SalesTax $16.91
+‘Shipping $5.00
+Deposit Received $0.00
+Total $211.91
+Bill To: Trey Research
+Address: 345 Cherry Street
+Suite 123
+Albany, SD 12345
+Phone. 432-855-0178
+Fax: 432-555-0187
+Email: mike@treyresearch.net
+CustomerService@tailspintoys.co
+‘www tailspintoys.com
+Invoice #: 34567
+Invoice Date: 17-10-2021
+Contact: Mike Gragg,
+123 Main Street
+Ocean View, MO 12345,
+Tailspin Toys
+Phone: 123-595-0123
+Fax: 123-655-0124
